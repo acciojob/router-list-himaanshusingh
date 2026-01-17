@@ -1,6 +1,6 @@
 import React from "react";
 import "./../styles/App.css";
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { BrowserRouter, Switch, Route } from "react-router-dom";
 import ItemList from "./ItemList";
 import ItemDetail from "./ItemDetail";
 
